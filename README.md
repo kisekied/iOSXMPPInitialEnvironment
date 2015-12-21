@@ -1,0 +1,2 @@
+# iOSXMPPInitialEnvironment
+iOS的XMPP初始环境配置
